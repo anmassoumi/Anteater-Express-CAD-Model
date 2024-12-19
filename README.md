@@ -6,6 +6,8 @@ https://youtu.be/Gm0yYm0MAvs?si=OsnKrH6Cu8VutwFe
 
 This CAD model represents a detailed and fully functional design of the Anteater Express bus, showcasing several interactive and realistic features:
 
+![Anteater Express ScreenShot](https://github.com/user-attachments/assets/0ef57be4-30ef-4f89-8293-492050ae287e)
+
 Working Doors: The model includes operational front and rear doors that simulate realistic opening and closing mechanisms. They can be animated to reflect the natural motion of a bus entry and exit system.
 
 Bike Rack: A functional front-mounted bike rack is incorporated, capable of folding up when not in use and extending to hold up to three standard bicycles securely.
